@@ -111,7 +111,7 @@ body{
     display:flex;
     
     justify-content:center;
-    color:white;
+    color:red;
     background-color:hsl(158, 36%, 37%);
     font-size: 14px;
     font-family:'Montserrat', sans-serif;
